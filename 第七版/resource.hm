@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by ListCtrl.rc
+//
+#define HIDOK                           0x80660001    // IDD_LISTCTRL_DIALOG
